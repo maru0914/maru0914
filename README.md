@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there🖐️
 
-<!--
-**maru0914/maru0914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hello! I'm Maru, a backend developer from Japan. I have a passion for building efficient and elegant web applications. <br/>
+I have experience working with a variety of technologies, but I especially love working with **Laravel**. <br/>
+Currently, I'm focused on developing a PWA using Vue.js, and I'm always eager to learn more and take on new challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies & Tools
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue-dot-js&logoColor=white)
+
+## Love
+🥰 Laravel
+
+[![Maru's GitHub stats](https://github-readme-stats.vercel.app/api?username=maru0914&theme=vue-dark&show_icons=true)](https://github.com/maru0914/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maru0914&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/maru0914/github-readme-stats)
+
+## Check Out My Projects　(For Japanese Projects)
+
+- [🔍 question-maker](https://github.com/maru0914/question-maker)
+- [🛠️ laravel-config-jp](https://github.com/maru0914/laravel-config-jp)
+
+## Let's Connect!
+
+Feel free to check out my repositories and don't hesitate to reach out if you'd like to collaborate on a project or just chat about technology.
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/invite/your-discord)
+
