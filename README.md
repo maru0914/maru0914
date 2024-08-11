@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm Maru, a backend developer from Japan. I have a passion for building efficient and elegant web applications. <br/>
+Hello! I'm Maru, a web engineer from Japan. I have a passion for building efficient and elegant web applications. <br/>
 I have experience working with a variety of technologies, but I especially love working with **Laravel**. <br/>
 Currently, I'm focused on developing a PWA using Vue.js, and I'm always eager to learn more and take on new challenges.
 
@@ -29,6 +29,8 @@ Currently, I'm focused on developing a PWA using Vue.js, and I'm always eager to
 
 Feel free to check out my repositories and don't hesitate to reach out if you'd like to collaborate on a project or just chat about technology.
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/invite/your-discord)
+[![X](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/x_maru0914)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/marudev0914)
+
+
 
