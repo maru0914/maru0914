@@ -20,10 +20,16 @@ Currently, I'm focused on developing a PWA using Vue.js, and I'm always eager to
 [![Maru's GitHub stats](https://github-readme-stats.vercel.app/api?username=maru0914&theme=vue-dark&show_icons=true)](https://github.com/maru0914/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maru0914&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/maru0914/github-readme-stats)
 
-## Check Out My Projects　(For Japanese Projects)
+## Check Out My Projects　(For Japanese)
 
 - [🔍 question-maker](https://github.com/maru0914/question-maker)
 - [🛠️ laravel-config-jp](https://github.com/maru0914/laravel-config-jp)
+
+## Articles on Zenn (Japanese article site for dev)
+
+I also write articles on Zenn! You can find all my posts here:
+
+- [My Zenn Profile](https://zenn.dev/casti)
 
 ## Let's Connect!
 
