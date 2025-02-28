@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm Maru, a web engineer from Japan. I have a passion for building efficient and elegant web applications. <br/>
+Hello! I'm Maru, a web devloper from Japan. I have a passion for building efficient and elegant web applications. <br/>
 I have experience working with a variety of technologies, but I especially love working with **Laravel**. <br/>
 Currently, I'm focused on developing a PWA using Vue.js, and I'm always eager to learn more and take on new challenges.
 
