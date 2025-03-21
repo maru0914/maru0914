@@ -22,7 +22,6 @@ Currently, I'm focused on developing a PWA using Vue.js, and I'm always eager to
 
 ## Check Out My Projects　(For Japanese)
 
-- [🔍 question-maker](https://github.com/maru0914/question-maker)
 - [🛠️ laravel-config-jp](https://github.com/maru0914/laravel-config-jp)
 
 ## Articles on Zenn (Japanese article site for dev)
