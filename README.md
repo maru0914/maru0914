@@ -4,7 +4,7 @@
 
 Hello! I'm Maru, a web devloper from Japan. I have a passion for building efficient and elegant web applications. <br/>
 I have experience working with a variety of technologies, but I especially love working with **Laravel**. <br/>
-Currently, I'm focused on developing a PWA using Vue.js, and I'm always eager to learn more and take on new challenges.
+Currently, I'm building Laravel API for Mobile App, and I'm always eager to learn more and take on new challenges.
 
 ## Technologies & Tools
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
