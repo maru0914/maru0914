@@ -1,41 +1,51 @@
-# Hi there🖐️
+# Takuya Ozu (maru0914)
 
-## About Me
+バックエンドエンジニア（PHP / Laravel）。toC サービスの API 設計・開発を担当しています。<br/>
+Backend engineer focused on API design and platform work with Laravel.
 
-Hello! I'm Maru, a web devloper from Japan. I have a passion for building efficient and elegant web applications. <br/>
-I have experience working with a variety of technologies, but I especially love working with **Laravel**. <br/>
-Currently, I'm building Laravel API for Mobile App, and I'm always eager to learn more and take on new challenges.
+## 得意なこと / What I do
+
+- REST API の設計・開発（OpenAPI によるスキーマ駆動開発、契約テスト）
+- バックエンド基盤の構築（通知、非同期処理、データ集計）
+- 管理画面の構築（[Filament](https://filamentphp.com/)）
+- 既存システムを止めずに更新すること（Laravel / PHP のメジャーバージョンアップ、EOL 対応、静的解析と自動テストによる担保）
+
+## 経験 / Experience
+
+- 約200本の REST API をスキーマ駆動で再構築（バックエンドリーダー）
+- レガシー PHP システムの EOL 対応（PHP 7.4 → 8.1）
+- AWS 上での設計・運用、gRPC でのサービス間連携
+- AI 支援ツール（Spec Kit / GitHub Copilot / Claude Code）を使った開発ワークフローの整備
 
 ## Technologies & Tools
+
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue-dot-js&logoColor=white)
+![Filament](https://img.shields.io/badge/-Filament-FDAE4B?style=flat-square&logo=laravel&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/-OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## Love
-🥰 Laravel
+## OSS contributions
 
-[![Maru's GitHub stats](https://github-readme-stats.vercel.app/api?username=maru0914&theme=vue-dark&show_icons=true)](https://github.com/maru0914/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maru0914&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/maru0914/github-readme-stats)
+- [filamentphp/filament #18042](https://github.com/filamentphp/filament/pull/18042) — Add missing Japanese translations for Profile page（merged）
+- [laravel/laravel #6413](https://github.com/laravel/laravel/pull/6413) — Format the first letter of `drivers` to lowercase（merged）
+- [laravel/docs #9725](https://github.com/laravel/docs/pull/9725) — Add concrete domain name directory to example code（merged）
+- [laravel/docs #9738](https://github.com/laravel/docs/pull/9738) — Fix results of `Number::currency()` example（merged）
+- [laravel/docs #9697](https://github.com/laravel/docs/pull/9697) — Remove unnecessary import statements（merged）
+- [laravel/docs #9739](https://github.com/laravel/docs/pull/9739) — Fix typo in helpers（merged）
+- [🛠️ laravel-config-jp](https://github.com/maru0914/laravel-config-jp) — Laravel の設定ファイルを日本語化したもの
 
-## Check Out My Projects　(For Japanese)
+## Personal projects
 
-- [🛠️ laravel-config-jp](https://github.com/maru0914/laravel-config-jp)
+- iOS アプリを2本、個人開発して App Store で公開
 
-## Articles on Zenn (Japanese article site for dev)
+## Articles
 
-I also write articles on Zenn! You can find all my posts here:
+- [Zenn](https://zenn.dev/casti) — 技術記事を書いています
 
-- [My Zenn Profile](https://zenn.dev/casti)
-
-## Let's Connect!
-
-Feel free to check out my repositories and don't hesitate to reach out if you'd like to collaborate on a project or just chat about technology.
+## Contact
 
 [![X](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/x_maru0914)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/marudev0914)
-
-
-
