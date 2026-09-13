@@ -1,12 +1,12 @@
 # Takuya Ozu (maru0914)
 
-Backend engineer (PHP / Laravel) working on API design and platform engineering for consumer-facing services.<br/>
+Backend engineer (PHP / Laravel) working on API design and backend systems for consumer-facing services.<br/>
 バックエンドエンジニア（PHP / Laravel）。toC サービスの API 設計・開発を担当しています。
 
 ## What I do
 
 - REST API design and development — schema-driven with OpenAPI, contract-tested
-- Backend platforms — notifications, async processing, data aggregation
+- Backend systems — notifications, async processing, data aggregation
 - Admin panels with [Filament](https://filamentphp.com/)
 - Keeping production systems current without downtime — Laravel / PHP major upgrades, EOL migrations, backed by static analysis and automated tests
 
