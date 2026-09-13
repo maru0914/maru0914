@@ -1,21 +1,21 @@
 # Takuya Ozu (maru0914)
 
-バックエンドエンジニア（PHP / Laravel）。toC サービスの API 設計・開発を担当しています。<br/>
-Backend engineer focused on API design and platform work with Laravel.
+Backend engineer (PHP / Laravel) working on API design and platform engineering for consumer-facing services.<br/>
+バックエンドエンジニア（PHP / Laravel）。toC サービスの API 設計・開発を担当しています。
 
-## 得意なこと / What I do
+## What I do
 
-- REST API の設計・開発（OpenAPI によるスキーマ駆動開発、契約テスト）
-- バックエンド基盤の構築（通知、非同期処理、データ集計）
-- 管理画面の構築（[Filament](https://filamentphp.com/)）
-- 既存システムを止めずに更新すること（Laravel / PHP のメジャーバージョンアップ、EOL 対応、静的解析と自動テストによる担保）
+- REST API design and development — schema-driven with OpenAPI, contract-tested
+- Backend platforms — notifications, async processing, data aggregation
+- Admin panels with [Filament](https://filamentphp.com/)
+- Keeping production systems current without downtime — Laravel / PHP major upgrades, EOL migrations, backed by static analysis and automated tests
 
-## 経験 / Experience
+## Experience
 
-- 約200本の REST API をスキーマ駆動で再構築（バックエンドリーダー）
-- レガシー PHP システムの EOL 対応（PHP 7.4 → 8.1）
-- AWS 上での設計・運用、gRPC でのサービス間連携
-- AI 支援ツール（Spec Kit / GitHub Copilot / Claude Code）を使った開発ワークフローの整備
+- Rebuilt ~200 REST APIs schema-first as backend lead (OpenAPI + Dredd contract tests)
+- Migrated a legacy PHP system off end-of-life versions (PHP 7.4 → 8.1)
+- Design and operations on AWS; service-to-service communication over gRPC
+- Set up AI-assisted development workflows (Spec Kit / GitHub Copilot / Claude Code) for a team
 
 ## Technologies & Tools
 
@@ -26,24 +26,26 @@ Backend engineer focused on API design and platform work with Laravel.
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
-## OSS contributions
+## Open source contributions
 
-- [filamentphp/filament #18042](https://github.com/filamentphp/filament/pull/18042) — Add missing Japanese translations for Profile page（merged）
-- [laravel/laravel #6413](https://github.com/laravel/laravel/pull/6413) — Format the first letter of `drivers` to lowercase（merged）
-- [laravel/docs #9725](https://github.com/laravel/docs/pull/9725) — Add concrete domain name directory to example code（merged）
-- [laravel/docs #9738](https://github.com/laravel/docs/pull/9738) — Fix results of `Number::currency()` example（merged）
-- [laravel/docs #9697](https://github.com/laravel/docs/pull/9697) — Remove unnecessary import statements（merged）
-- [laravel/docs #9739](https://github.com/laravel/docs/pull/9739) — Fix typo in helpers（merged）
-- [🛠️ laravel-config-jp](https://github.com/maru0914/laravel-config-jp) — Laravel の設定ファイルを日本語化したもの
+- [filamentphp/filament #18042](https://github.com/filamentphp/filament/pull/18042) — Add missing Japanese translations for Profile page (merged)
+- [laravel/laravel #6413](https://github.com/laravel/laravel/pull/6413) — Format the first letter of `drivers` to lowercase (merged)
+- [laravel/docs #9725](https://github.com/laravel/docs/pull/9725) — Add concrete domain name directory to example code (merged)
+- [laravel/docs #9738](https://github.com/laravel/docs/pull/9738) — Fix results of `Number::currency()` example (merged)
+- [laravel/docs #9697](https://github.com/laravel/docs/pull/9697) — Remove unnecessary import statements (merged)
+- [laravel/docs #9739](https://github.com/laravel/docs/pull/9739) — Fix typo in helpers (merged)
+- [🛠️ laravel-config-jp](https://github.com/maru0914/laravel-config-jp) — Laravel config files with Japanese comments
 
-## Personal projects
+## Personal apps (iOS, App Store)
 
-- iOS アプリを2本、個人開発して App Store で公開
+- [ひびつみ − 書かない日記・ジャーナリング](https://apps.apple.com/jp/app/id6778843435) — a 10-second daily journal: pick a mood, tap what you did
+- [Yoinemu](https://apps.apple.com/jp/app/yoinemu/id6765696571) — ambient sounds to fall asleep to
 
-## Articles
+## Writing
 
-- [Zenn](https://zenn.dev/casti) — 技術記事を書いています
+- [Zenn](https://zenn.dev/casti) — articles in Japanese
 
 ## Contact
 
