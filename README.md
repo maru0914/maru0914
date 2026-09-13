@@ -26,7 +26,8 @@ Backend engineer (PHP / Laravel) working on API design and platform engineering 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
 ## Open source contributions
 
@@ -38,7 +39,7 @@ Backend engineer (PHP / Laravel) working on API design and platform engineering 
 - [laravel/docs #9739](https://github.com/laravel/docs/pull/9739) — Fix typo in helpers (merged)
 - [🛠️ laravel-config-jp](https://github.com/maru0914/laravel-config-jp) — Laravel config files with Japanese comments
 
-## Personal apps (iOS, App Store)
+## Personal apps (iOS, App Store — built with React Native / Expo)
 
 - [ひびつみ − 書かない日記・ジャーナリング](https://apps.apple.com/jp/app/id6778843435) — a 10-second daily journal: pick a mood, tap what you did
 - [Yoinemu](https://apps.apple.com/jp/app/yoinemu/id6765696571) — ambient sounds to fall asleep to
